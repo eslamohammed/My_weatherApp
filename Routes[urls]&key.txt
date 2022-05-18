@@ -1,0 +1,6 @@
+748d6f6b3506a4061ae83632b7057710   eslam
+
+
+http://api.openweathermap.org/data/2.5/weather?q=cairo&appid=08d5332b2329c702a9f330a13df95621
+
+http://api.openweathermap.org/data/2.5/forecast?q=cairo&appid=08d5332b2329c702a9f330a13df95621
